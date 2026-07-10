@@ -1,0 +1,10 @@
+PDFPageCaptures/
+__pycache__/
+*.pyc
+_capture_config.json
+*.log
+build/
+dist/
+release/
+.venv_build/
+*.spec.bak
